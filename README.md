@@ -23,7 +23,6 @@ In der heutigen Welt in dem Stress, Zeitmangel und Ablenkungen überall zu finde
 Aus diesem Grund bleiben viele Menschen in ungesunden Gewohnheiten stecken, sei es in Bezug auf Gesundheit, Produktivität oder persönliches Wachstum. 
 Daher ist es sehr wichtig, geeignete Lösungen und Tools zu entwickeln, die es den Menschen ermöglichen, 
 ihre Gewohnheiten zu verstehen, zu verfolgen und eine gezielte Selbstoptimierung durchzuführen. 
-
 **Zielsetzung / Vision:**
 
 Der Endnutzer unseres Systems soll nach der Nutzung seine gezielte Gewohnheit erreichen und Vorsätze tatsächlich umzusetzen.
