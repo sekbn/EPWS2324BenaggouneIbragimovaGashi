@@ -35,7 +35,7 @@ Es besteht keine Eingrenzung welche Habits der User erlernen möchte.
 Es wird angestrebt, dem Nutzer ein hohes Maß an Selbstbestimmung zu ermöglichen. 
 Das System wird auf der Grundlage von sogenannten "Streaks" entwickelt, die eine Art Belohnungssystem darstellen.
 Diese "Streaks" motivieren den Nutzer, seine Ziele konsequent zu verfolgen und zu erreichen. 
-Darüber hinaus werden Ranglisten integriert, um die Motivation des Nutzers weiter zu steigern. 
+Darüber hinaus werden Ranglisten integriert, um die Motivation des Nutzers weiter zu steigern. Zusätzlich wird dem Nutzer die Möglichkeit gegeben, durch einen integrierten Terminplan eigene Deadlines festzulegen und sich Zeitpläne für die Verfolgung und Erreichung seiner Gewohnheiten und Ziele zu erstellen.
 Dem Nutzer wird die Möglichkeit geboten, durch die Funktion "Journaling" seine Erfahrungen und Emotionen zu dokumentieren, um sein Selbstbewusstsein zu stärken und Selbstreflexion zu fördern.
 Sowohl Benachrichtigungen als auch Mitteilungen werden eingesetzt.
 
