@@ -6,6 +6,8 @@ Madina Ibragimova Marktlnr.: 11153241
 
 Sekarja Benaggoune Marktlnr.: 11153507
 
+Um die Notizen und Gedanken des Projektteams zu lesen bitte die ODP Datei der Präsentation herunterladen.
+
 ***
 
 **Exposé:**
