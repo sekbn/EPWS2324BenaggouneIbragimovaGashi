@@ -1,0 +1,50 @@
+<!-- yourhabit.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Journaling</title>
+    <link rel="stylesheet" href="stylejournal.css">
+</head>
+<body>
+
+
+<header>
+    <h2 class="logo">
+    <img src="logo.png" alt="Habiton Logo">
+</h2>
+
+    <nav>
+        <ul>
+            <a href="home.html">Home</a> 
+            <a href="yourhabit.html">Your Habit</a>
+            <a href="calendar.html">Calendar</a>
+            <a href="journal.html"class="active">Journaling</a>
+            <a href="achievements.html">Achievements</a>
+            <a href="settings.html">Settings</a>
+        </ul>
+    
+    </nav>
+</header>
+
+<div class="container"> 
+
+    <form onsubmit="addEntry(event)">
+		<label for="journal-entry-name">Journal Entry Name:</label><br>
+		<input type="text" id="journal-entry-name" name="journal-entry-name"><br>
+		<label for="journal-entry">Journal Entry:</label><br>
+		<textarea id="journal-entry" name="journal-entry" rows="10" cols="400"></textarea><br>
+		<input type="submit" value="Submit">
+	</form>
+	<div class="journal-entries" id="journal-entries">
+	</div>
+</div>
+
+
+<script src="script.js"></script>
+
+</body>
+</html>
