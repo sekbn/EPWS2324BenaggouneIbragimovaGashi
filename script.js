@@ -527,3 +527,31 @@ function deleteEntry(entry) {
 		entry.remove();
 	}
 }
+
+document.querySelector('.toggle-btn').addEventListener('click', function() {
+  const loginForm = document.getElementById('loginForm');
+  const registerForm = document.getElementById('registerForm');
+  if (loginForm.style.display === "none") {
+      loginForm.style.display = "block";
+      registerForm.style.display = "none";
+      this.textContent = "Register";
+  } else {
+      loginForm.style.display = "none";
+      registerForm.style.display = "block";
+      this.textContent = "Login";
+  }
+});
+
+document.querySelector('.toggle-btn').addEventListener('click', function() {
+  const loginForm = document.getElementById('loginForm');
+  const registerForm = document.getElementById('registerForm');
+  if (loginForm.style.display === "none") {
+      loginForm.style.display = "block";
+      registerForm.style.display = "none";
+      this.textContent = "Register";
+  } else {
+      loginForm.style.display = "none";
+      registerForm.style.display = "block";
+      this.textContent = "Login";
+  }
+});
